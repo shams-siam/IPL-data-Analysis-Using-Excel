@@ -1,7 +1,6 @@
 # IPL-data-Analysis-Using-Excel
 
 
-Analysis-Of-IPL-Dataset
 About this Dataset
 IPL is among the most famous cricket league with players coming from worldwide. What makes this series more competitive every year is the drama with every ball.
 
